@@ -1,0 +1,7 @@
+click>=8.1.7
+msal>=1.26.0
+requests>=2.32.3
+beautifulsoup4>=4.12.3
+openai>=1.35.4
+python-dotenv>=1.0.1
+rich>=13.7.1
